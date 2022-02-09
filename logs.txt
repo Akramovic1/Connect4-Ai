@@ -1,0 +1,11 @@
+
+Level #0
+|OXOXOXX|
+|XOXOXOO|
+|OXOXOXX|
+|XOXOXOX|
+|OXOXXXO|
+|OOOOXOX|
+_________   Heuristic Score : 9
+
+----------------------------------------
